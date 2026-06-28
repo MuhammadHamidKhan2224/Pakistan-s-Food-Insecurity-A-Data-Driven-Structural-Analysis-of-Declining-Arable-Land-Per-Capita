@@ -1,0 +1,2 @@
+# Pakistan-s-Food-Insecurity-A-Data-Driven-Structural-Analysis-of-Declining-Arable-Land-Per-Capita
+This data-driven structural analysis critically examines how Pakistan’s rapidly shrinking per capita arable land accelerates food insecurity. It exposes systemic vulnerabilities—urban sprawl, climate shocks, and archaic farming—revealing how resource mismanagement transforms a land crunch into a severe national crisis.
